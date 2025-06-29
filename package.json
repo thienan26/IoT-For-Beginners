@@ -5,6 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"convert": "node_modules/.bin/docsify-to-pdf"
+		"build": "react-scripts build"
 	},
 	"repository": {
 		"type": "git",
